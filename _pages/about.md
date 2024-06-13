@@ -25,15 +25,11 @@ I am as an intern at CVL
 
 
 
- presently pursuing his Master's degree at Beihang University, mentored by Professor [Chengwei Pan](https://scholar.google.com/citations?user=7i1dqbEAAAAJ&hl=en), with a research focus on advancing the application of AI in healthcare.
+ presently pursuing his Master's degree at Beihang University, mentored by Professo, with a research focus on advancing the application of AI in healthcare.
 
 His research interest also includes computer vision and large language model. He has published many papers at the top international AI conferences with total
 
-My research interest mainly falls in robotics and multimodal. More detail please find our group homepage: [RUC-AIMind](https://ruc-aimind.github.io/)
-
-
-
-
+My research interest mainly falls in robotics and multimodal. More detail please find our group homepage: 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -68,4 +64,5 @@ My research interest mainly falls in robotics and multimodal. More detail please
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.12 - now*,  [CVLab](https://www.epfl.ch/labs/cvlab/) (EPFL).
+
