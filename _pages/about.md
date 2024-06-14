@@ -28,16 +28,10 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 # 🎖 Honors and Awards
 
 - 2023.11 GDC Scholarship [**(Award-winning Student Representative)**](https://stuhome.ustc.edu.cn/2023/1123/c2315a620648/pagem.htm)                                     
-
 - 2022.06 Outstanding Graduation Thesis
-
 - *2022-2023* 1st-Class Scholarship, USTC * 2
-
 - 2019-2021 Outstanding Student * 3                  
-
 - *2019-2020*  **National Scholarship** (Highest level scholarship for undergraduates) \* 2     
-
-  ​      
 
 # 📖 Educations
 
