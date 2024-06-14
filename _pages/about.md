@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-🎉 I am currently serving as an AI Research Assistant Intern in the [CVLab](https://www.epfl.ch/labs/cvlab/) at Swiss Federal Institute of Technology Lausanne **(EPFL)🇨🇭**, where I collaborates with  [Dr. J.C. Yang](https://jiancheng-yang.com/) and [Prof. Pascal Fua](https://scholar.google.ch/citations?user=kzFmAkYAAAAJ) on AI for health and medical image analysis. I earned my Bachelor's degree in Computer Science and Technology (CS) from Northeastern University and am currently pursuing my Master's degree in CS at the **University of Science and Technology of China (USTC)**.
+🎉 I am currently serving as an AI Research Assistant Intern in the [CVLab](https://www.epfl.ch/labs/cvlab/) at Swiss Federal Institute of Technology Lausanne **(EPFL)🇨🇭**, where I collaborates with  [Dr. J.C. Yang](https://jiancheng-yang.com/) and [Prof. Pascal Fua](https://scholar.google.ch/citations?user=kzFmAkYAAAAJ) on AI for health and medical image analysis. 
 
-My research interests include computer vision (e.g., image generation and image segmentation) and large language models. <span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at zhanghantao@mail.ustc.edu.cn.
+I earned my Bachelor's degree in Computer Science and Technology (CS) from Northeastern University and am currently pursuing my Master's degree in CS at the **University of Science and Technology of China (USTC)**. My research interests include computer vision (e.g., image generation and image segmentation) and large language models.
+
+<span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at: zhanghantao@mail.ustc.edu.cn.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
