@@ -21,7 +21,7 @@ redirect_from:
 
 I earned my Bachelor's degree in Computer Science and Technology (CS) from Northeastern University and am currently pursuing my Master's degree in **CS** at the **University of Science and Technology of China (USTC)**. My research interests include computer vision (e.g., image generation and image segmentation) and large language models.
 
-<span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at: zhanghantao@mail.ustc.edu.cn.
+<span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at: **zhanghantao@mail.ustc.edu.cn**
 
 # 🎖 Honors and Awards
 
