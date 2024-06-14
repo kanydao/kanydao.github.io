@@ -23,20 +23,32 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 
 <span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at: **zhanghantao@mail.ustc.edu.cn**
 
+
+
 # 🎖 Honors and Awards
 
 - 2023.11 GDC Scholarship [**(Award-winning Student Representative)**](https://stuhome.ustc.edu.cn/2023/1123/c2315a620648/pagem.htm)                                     
+
 - 2022.06 Outstanding Graduation Thesis
+
 - *2022-2023* 1st-Class Scholarship, USTC * 2
+
 - 2019-2021 Outstanding Student * 3                  
-- *2019-2020*  **National Scholarship** (Highest level scholarship for undergraduates) \* 2           
+
+- *2019-2020*  **National Scholarship** (Highest level scholarship for undergraduates) \* 2     
+
+  ​      
 
 # 📖 Educations
 
 - Research Assistant *2023.12 - Present*, EPFL, [**CVLab**](https://www.epfl.ch/labs/cvlab/).
+
 - Master *2022.09 - 2025.06*, University of Science and Technology of China, Computer Science.
+
 - Bachelor *2018.09 - 2022.06*, Northeastern University, Computer Science.
+
+  
 
 # 🌍 Website Visiting Map
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ItepywghaB7DpioDsZd9QS7Q8t6BfxyDtA3DlM0OKgM&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=w-pUakDM-HO-pCO9m6thp_1qYseLMSlmVSEyZmgOo1Q"></script>
