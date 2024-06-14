@@ -51,4 +51,5 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 
 # 🌍 Website Visiting Map
 
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=w-pUakDM-HO-pCO9m6thp_1qYseLMSlmVSEyZmgOo1Q"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=_EiO7M5E1WmYV_zOK8o-FPEMxHFKMFoMm9OUbKjvAU0&cl=ffffff&w=a"></script>
+
