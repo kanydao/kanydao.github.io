@@ -32,6 +32,6 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 - *2019-2020*  **National Scholarship** (Highest level scholarship for undergraduates) \* 2           
 
 # 📖 Educations
-- Research Assistant *2023.12 - Present*, EPFL, supervised by [**Dr. J.C. Yang**](https://jiancheng-yang.com/) and [**Prof. Pascal Fua**](https://scholar.google.ch/citations?user=kzFmAkYAAAAJ) at the [**CVLab**](https://www.epfl.ch/labs/cvlab/).
+- Research Assistant *2023.12 - Present*, EPFL, [**CVLab**](https://www.epfl.ch/labs/cvlab/).
 - Master *2022.09 - 2025.06*, University of Science and Technology of China, Computer Science.
 - Bachelor *2018.09 - 2022.06*, Northeastern University, Computer Science.
