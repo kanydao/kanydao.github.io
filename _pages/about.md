@@ -24,6 +24,16 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 
 <span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at: zhanghantao@mail.ustc.edu.cn.
 
+
+
+# 🎖 Honors and Awards
+
+- 2023.11 GDC scholarship [**(Award-winning Student Rep.)**](https://stuhome.ustc.edu.cn/2023/1123/c2315a620648/pagem.htm)                                     
+- 2022.06 Outstanding Graduation Thesis
+- *2022-2023* 1st-Class Scholarship, USTC * 2
+- 2019-2021 Outstanding Student * 3                  
+- *2019-2020*  **National scholarship** (Highest level scholarship for undergraduates) \* 2           
+
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -43,10 +53,6 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
