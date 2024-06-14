@@ -25,11 +25,11 @@ I earned my Bachelor's degree in Computer Science and Technology (CS) from North
 
 # 🎖 Honors and Awards
 
-- 2023.11 GDC scholarship [**(Award-winning Student Representative)**](https://stuhome.ustc.edu.cn/2023/1123/c2315a620648/pagem.htm)                                     
+- 2023.11 GDC Scholarship [**(Award-winning Student Representative)**](https://stuhome.ustc.edu.cn/2023/1123/c2315a620648/pagem.htm)                                     
 - 2022.06 Outstanding Graduation Thesis
 - *2022-2023* 1st-Class Scholarship, USTC * 2
 - 2019-2021 Outstanding Student * 3                  
-- *2019-2020*  **National scholarship** (Highest level scholarship for undergraduates) \* 2           
+- *2019-2020*  **National Scholarship** (Highest level scholarship for undergraduates) \* 2           
 
 # 📖 Educations
 - Research Assistant *2023.12 - Present*, EPFL, supervised by [**Dr. J.C. Yang**](https://jiancheng-yang.com/) and [**Prof. Pascal Fua**](https://scholar.google.ch/citations?user=kzFmAkYAAAAJ) at the [**CVLab**](https://www.epfl.ch/labs/cvlab/).
