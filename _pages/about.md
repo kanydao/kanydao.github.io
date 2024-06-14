@@ -17,19 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now sereve an AI researcher in the [CVLab](https://www.epfl.ch/labs/cvlab/) at Swiss Federal Institute of Technology Lausanne (EPFL)🇨🇭, where I collaborates with [Dr. Jiancheng Yang](https://jiancheng-yang.com/) and [Prof. Pascal Fua](https://scholar.google.ch/citations?user=kzFmAkYAAAAJ) on AI for health, medical image analysis. 
+🎉 I am currently serving as an AI Research Assistant Intern in the [CVLab](https://www.epfl.ch/labs/cvlab/) at Swiss Federal Institute of Technology Lausanne **(EPFL)🇨🇭**, where I collaborates with  [Dr. J.C. Yang](https://jiancheng-yang.com/) and [Prof. Pascal Fua](https://scholar.google.ch/citations?user=kzFmAkYAAAAJ) on AI for health and medical image analysis. I earned my Bachelor's degree in Computer Science and Technology (CS) from Northeastern University and am currently pursuing my Master's degree in CS at the **University of Science and Technology of China (USTC)**.
 
-I earned both his CS Bachelor's at University and held positions.
-
-I am as an intern at CVL
-
-
-
- presently pursuing his Master's degree at Beihang University, mentored by Professo, with a research focus on advancing the application of AI in healthcare.
-
-His research interest also includes computer vision and large language model. He has published many papers at the top international AI conferences with total
-
-My research interest mainly falls in robotics and multimodal. More detail please find our group homepage: 
+My research interests include computer vision (e.g., image generation and image segmentation) and large language models. <span style="color:red;">I am looking for research intern roles and applying for PhD programs for Fall 2025!</span> If you are interested, please feel free to contact me at zhanghantao@mail.ustc.edu.cn.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
