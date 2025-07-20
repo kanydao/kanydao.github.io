@@ -45,6 +45,100 @@
     ga('send', 'pageview');
 </script> -->
 <link rel="icon" type="image/jpg" href="/images/hantao.jpg">
+
+
+<style>
+    /* General section styling */
+    .section {
+        width: 80%; /* Adjust width as needed */
+        max-width: 900px;
+        margin: 40px auto; /* Adds space between sections */
+        text-align: left;
+    }
+
+    .section h2 {
+        border-bottom: 1px solid #cccccc;
+        padding-bottom: 10px;
+        margin-bottom: 20px;
+        font-size: 1.8em;
+        color: #333;
+    }
+
+    /* Container for all publication items */
+    .publication-list {
+        display: flex;
+        flex-direction: column;
+        gap: 30px; /* Space between publication entries */
+    }
+
+    /* Styling for a single publication entry */
+    .publication-item {
+        display: flex; /* Allows image and details to sit side-by-side */
+        gap: 20px;
+    }
+
+    /* Optional teaser image on the left */
+    .publication-image {
+        flex-shrink: 0;
+    }
+    .publication-image img {
+        width: 150px; /* Adjust image size */
+        height: auto;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+    }
+
+    /* Container for text details (title, authors, etc.) */
+    .publication-details {
+        flex-grow: 1;
+        text-align: justify;
+    }
+    
+    /* Specific styles for each part of the text */
+    .publication-title {
+        font-size: 1.1em;
+        font-weight: bold;
+        margin: 0 0 5px 0;
+    }
+    .publication-title a {
+        color: #0056b3;
+        text-decoration: none;
+    }
+    .publication-title a:hover {
+        text-decoration: underline;
+    }
+
+    .publication-authors {
+        font-size: 0.95em;
+        margin: 0 0 5px 0;
+        line-height: 1.4;
+    }
+
+    .publication-venue {
+        font-size: 0.9em;
+        color: #555555;
+        margin: 0 0 10px 0;
+    }
+    
+    /* Styling for links like 'Code', 'PDF' to look like buttons */
+    .publication-links a.link-button {
+        display: inline-block;
+        margin-right: 10px;
+        padding: 5px 12px;
+        border: 1px solid #cccccc;
+        border-radius: 4px;
+        background-color: #f8f8f8;
+        color: #333;
+        text-decoration: none;
+        font-size: 0.85em;
+        transition: background-color 0.2s;
+    }
+    .publication-links a.link-button:hover {
+        background-color: #e0e0e0;
+        border-color: #bbbbbb;
+    }
+</style>
+
 </head>
 
 <body>
@@ -110,60 +204,30 @@
         </div>
     </div>
 
-        <!-- Publications -->
-        <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+<div class="section">
+  <h2>Selected Research</h2>
+  
+  <div class="publication-list">
 
-
-          <tr><td>
-            <h2>Selected Research</h2>
-          </td></tr>
-        </table>
-
-                  <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;" cellspacing="0" cellpadding="20">
-            <tr>
-              <!-- <td width="33%" valign="top"><a href="images/PMCE.gif"><img src="images/PMCE.gif" width="100%" style="border-style: none"></a>
-              <td width="67%" valign="top"> -->
-                <p style="text-align:justify"><a href="https://openreview.net/forum?id=3b9SKkRAKw", target="_blank" id="">
-                <heading>LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models</heading></a>
-                <br>
-                <strong>Hantao Zhang</strong>, Yuhe Liu3 , Jiancheng Yang1† , Shouhong Wan , Xinyuan Wang , Wei Peng , Pascal Fua 
-                <br>
-                <em>International Conference on Learning Representations (<strong>ICLR</strong>)</em>, 2025
-                <br></p>
-                <a href="https://github.com/M3DV/LeFusion">Code</a>
-              </td>
-            </tr>  
-              </div>
-            </td>
-          </tr> 
-      
-</pre>
-                </div>
-              </td>
-            </tr>
-
-        <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-            <tr>
-              <td>
-                <h2>Internship Experience</h2>
-              </td>
-            </tr>
-        </table>
-        <table width="100%" align="center" border="0" cellpadding="20">
-          <tr>
-            <td style="width:25%;vertical-align:middle">
-              <img src='images/alibaba.png' width="110">
-            </td>
-            <td style="padding:20px;width:75%;vertical-align:middle">
-              <strong>Alibaba</strong>
-              <br> Taobao & TMALL Group, Hangzhou, China. Summer 2023
-              <br> Mentor: Gaige Wang, Zhiwen Chen</a>
-              <p></p>
-              <p> Textured 3D human face generation.</p>
-            </td>
-          </tr>
-          </tr>
-        </table> -->
+    <div class="publication-item">
+      <div class="publication-details">
+        <p class="publication-title">
+          <a href="https://openreview.net/pdf?id=3b9SKkRAKw" target="_blank">LeFusion: Controllable Pathology Synthesis via Lesion-Focused Diffusion Models</a>
+        </p>
+        <p class="publication-authors">
+          <strong>Hantao Zhang</strong>, Yuhe Liu¹, Jiancheng Yang¹†, Shouhong Wan, Xinyuan Wang, Wei Peng, Pascal Fua
+        </p>
+        <p class="publication-venue">
+          <em>International Conference on Learning Representations (<strong>ICLR</strong>)</em>, 2025
+        </p>
+        <div class="publication-links">
+          <a href="https://github.com/M3DV/LeFusion" class="link-button" target="_blank">Code</a>
+          <a href="https://openreview.net/pdf?id=3b9SKkRAKw" class="link-button" target="_blank">PDF</a>
+          </div>
+      </div>
+    </div>
+    </div>
+</div>
 
         <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
           <tr>
