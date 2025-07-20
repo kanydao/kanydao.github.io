@@ -27,10 +27,7 @@
     <link rel="icon" type="image/jpg" href="/images/hantao.jpg">
 
 <style>
-    /* ========== KEY CHANGE HERE ========== */
-    /* I've modified this .section style to align with the content above */
     .section {
-        /* Replaced old width/margin rules with padding to match the 2.5% indent of the text above */
         padding: 0 2.5%; 
         margin-top: 40px;
         margin-bottom: 20px;
@@ -45,7 +42,6 @@
         border-bottom: 1px solid #cccccc;
     }
 
-    /* ========== RESEARCH-SPECIFIC STYLES ========== */
     .publication-list { display: flex; flex-direction: column; gap: 30px; }
     .publication-item { display: flex; gap: 20px; }
     .publication-details { flex-grow: 1; }
@@ -57,9 +53,8 @@
     .publication-links a.link-button { display: inline-block; margin-right: 10px; padding: 5px 12px; border: 1px solid #ccc; border-radius: 4px; background-color: #f8f8f8; color: #333; text-decoration: none; font-size: 0.85em; }
     .publication-links a.link-button:hover { background-color: #e0e0e0; }
 
-    /* ========== AWARDS-SPECIFIC STYLES (UPDATED) ========== */
     .awards-list {
-        list-style-type: none; /* 移除默认的项目符号 */
+        list-style-type: none;
         padding: 0;
         margin: 0;
     }
@@ -81,6 +76,14 @@
         flex-shrink: 0;
         color: #666;
         font-family: monospace;
+    }
+    
+    /* ========== 1. 新增的CSS样式 ========== */
+    /* 为括号内的注释文本设置样式 */
+    .note {
+        color: #d32f2f;  /* 一个比纯红更柔和的红色 */
+        font-size: 0.9em; /* 让注释文本稍微小一点 */
+        font-style: italic; /* 设为斜体（可选） */
     }
 </style>
 </head>
@@ -141,7 +144,7 @@
                         <h2>Selected Awards and Honors</h2>
                         <ul class="awards-list">
                             <li class="award-item">
-                                <span class="award-description">Outstanding Graduate of Anhui Province (Highest Honor for Graduates)</span>
+                                <span class="award-description">Outstanding Graduate of Anhui Province <span class="note">(Highest Honor for Graduates)</span></span>
                                 <span class="award-date">2025</span>
                             </li>
                             <li class="award-item">
@@ -149,7 +152,7 @@
                                 <span class="award-date">2025</span>
                             </li>
                             <li class="award-item">
-                                <span class="award-description">Excellence in Talent International Scholarship (One of only four recipients)</span>
+                                <span class="award-description">Excellence in Talent International Scholarship <span class="note">(One of only four recipients)</span></span>
                                 <span class="award-date">2024</span>
                             </li>
                             <li class="award-item">
@@ -157,7 +160,7 @@
                                 <span class="award-date">2024</span>
                             </li>
                             <li class="award-item">
-                                <span class="award-description">GDC scholarship (Award-winning Student Representative)</span>
+                                <span class="award-description">GDC scholarship <span class="note">(Award-winning Student Representative)</span></span>
                                 <span class="award-date">2023</span>
                             </li>
                             <li class="award-item">
@@ -169,7 +172,7 @@
                                 <span class="award-date">2022</span>
                             </li>
                             <li class="award-item">
-                                <span class="award-description">National Scholarship (Highest level scholarship for undergraduates) &times; 2</span>
+                                <span class="award-description">National Scholarship <span class="note">(Highest level scholarship for undergraduates)</span> &times; 2</span>
                                 <span class="award-date">2019-2020</span>
                             </li>
                             <li class="award-item">
@@ -185,8 +188,6 @@
 
     <script xml:space="preserve" language="JavaScript">
         // Assuming hideallbibs and hideblock are defined in your JS files
-        // hideallbibs();
-        // hideblock('VirtualMarker_abs');
     </script>
 </body>
 </html>
