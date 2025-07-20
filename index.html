@@ -67,44 +67,36 @@
     .publication-list { display: flex; flex-direction: column; gap: 30px; }
     .publication-item { display: flex; gap: 20px; }
     .publication-details { flex-grow: 1; }
-    .publication-title { font-size: 1.1em; font-weight: bold; margin: 0 0 5px 0; }
+    
+    .publication-title {
+        font-size: 1.1em;
+        font-weight: bold;
+        margin: 0 0 5px 0;
+        text-align: left; /* 确保标题严格左对齐 */
+    }
     .publication-title a { color: #0056b3; text-decoration: none; }
     .publication-title a:hover { text-decoration: underline; }
+
     .publication-authors { font-size: 0.95em; line-height: 1.4; margin: 0 0 5px 0; }
     .publication-venue { font-size: 0.9em; color: #555555; margin: 0 0 10px 0; }
-    .publication-links a.link-button { display: inline-block; margin-right: 10px; padding: 5px 12px; border: 1px solid #ccc; border-radius: 4px; background-color: #f8f8f8; color: #333; text-decoration: none; font-size: 0.85em; }
-    .publication-links a.link-button:hover { background-color: #e0e0e0; }
+    
+    /* Styles for link-button have been removed as they are no longer used */
 
-    /* ========== AWARDS-SPECIFIC STYLES (UPDATED) ========== */
-    .awards-list {
-        list-style-type: none; /* 移除默认的项目符号 */
-        padding: 0;
-        margin: 0;
-    }
-
-    /* 这是实现左右对齐的关键 */
+    /* ========== AWARDS-SPECIFIC STYLES ========== */
+    .awards-list { list-style-type: none; padding: 0; margin: 0; }
     .award-item {
-        display: flex; /* 1. 将列表项变为Flex容器 */
-        justify-content: space-between; /* 2. 将内部元素推向两端 */
-        align-items: baseline; /* 3. 保证文字基线对齐 */
-        padding: 8px 0; /* 为每个奖项添加一些垂直间距 */
-        gap: 20px; /* 确保描述和日期之间至少有20px的间距 */
-        border-bottom: 1px solid #f0f0f0; /* 添加一条细微的分割线 */
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        padding: 8px 0;
+        gap: 20px;
+        border-bottom: 1px solid #f0f0f0;
     }
-
-    /* 最后一个奖项不需要分割线 */
-    .award-item:last-child {
-        border-bottom: none;
-    }
-
-    .award-description {
-        /* 描述部分可以不加样式，会自动靠左 */
-    }
-
+    .award-item:last-child { border-bottom: none; }
     .award-date {
-        flex-shrink: 0; /* 防止日期文本换行 */
-        color: #666; /* 让日期颜色稍浅，作为次要信息 */
-        font-family: monospace; /* 使用等宽字体，让数字对齐更美观 */
+        flex-shrink: 0;
+        color: #666;
+        font-family: monospace;
     }
 </style>
 </head>
@@ -265,13 +257,9 @@
         <p class="publication-venue">
           <em>International Conference on Learning Representations (<strong>ICLR</strong>)</em>, 2025
         </p>
-        <div class="publication-links">
-          <a href="https://github.com/M3DV/LeFusion" class="link-button" target="_blank">Code</a>
-          <a href="https://openreview.net/pdf?id=3b9SKkRAKw" class="link-button" target="_blank">PDF</a>
         </div>
-      </div>
     </div>
-  </div>
+    </div>
 </div>
 
 <div class="section">
@@ -286,35 +274,7 @@
       <span class="award-description">Outstanding Graduate, University of Science and Technology of China</span>
       <span class="award-date">2025</span>
     </li>
-    <li class="award-item">
-      <span class="award-description">Excellence in Talent International Scholarship (One of only four recipients)</span>
-      <span class="award-date">2024</span>
-    </li>
-    <li class="award-item">
-      <span class="award-description">USTC-Suzhou Industrial Park Scholarship</span>
-      <span class="award-date">2024</span>
-    </li>
-    <li class="award-item">
-      <span class="award-description">GDC scholarship (Award-winning Student Representative)</span>
-      <span class="award-date">2023</span>
-    </li>
-    <li class="award-item">
-      <span class="award-description">1st-Class Scholarship, USTC &times; 3</span>
-      <span class="award-date">2022-2024</span>
-    </li>
-    <li class="award-item">
-      <span class="award-description">Excellent Graduation Thesis</span>
-      <span class="award-date">2022</span>
-    </li>
-    <li class="award-item">
-      <span class="award-description">National Scholarship (Highest level scholarship for undergraduates) &times; 2</span>
-      <span class="award-date">2019-2020</span>
-    </li>
-    <li class="award-item">
-      <span class="award-description">Outstanding Student &times; 3</span>
-      <span class="award-date">2019-2022</span>
-    </li>
-  </ul>
+    </ul>
 </div>
       </td>
     </tr>
